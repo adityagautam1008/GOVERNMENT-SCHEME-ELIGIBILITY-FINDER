@@ -1,0 +1,310 @@
+[
+{
+"name":"Beti Bachao Beti Padhao",
+"benefit":"बालिकाओं की शिक्षा और सुरक्षा हेतु सहायता",
+"conditions":{"gender":"female"},
+"state":"All",
+"apply_link":"https://wcd.nic.in/"
+},
+{
+"name":"PM Garib Kalyan Anna Yojana",
+"benefit":"मुफ्त राशन वितरण",
+"conditions":{"income_max":200000},
+"state":"All",
+"apply_link":"https://nfsa.gov.in/"
+},
+{
+"name":"Stand Up India",
+"benefit":"SC/ST एवं महिला उद्यमियों को लोन",
+"conditions":{"age_min":18,"caste":"sc"},
+"state":"All",
+"apply_link":"https://www.standupmitra.in/"
+},
+{
+"name":"National Disability Pension",
+"benefit":"विकलांग नागरिकों को मासिक सहायता",
+"conditions":{"disability":true},
+"state":"All",
+"apply_link":"https://nsap.nic.in/"
+},
+{
+"name":"PM Matru Vandana Yojana",
+"benefit":"गर्भवती महिलाओं को आर्थिक सहायता",
+"conditions":{"gender":"female","marital_status":"married"},
+"state":"All",
+"apply_link":"https://wcd.nic.in/"
+},
+{
+"name":"National OBC Scholarship",
+"benefit":"OBC छात्रों को छात्रवृत्ति",
+"conditions":{"caste":"obc","is_student":true},
+"state":"All",
+"apply_link":"https://scholarships.gov.in/"
+},
+{
+"name":"PM Vishwakarma Yojana",
+"benefit":"कारीगरों को आर्थिक सहायता",
+"conditions":{"income_max":300000},
+"state":"All",
+"apply_link":"https://pmvishwakarma.gov.in/"
+},
+{
+"name":"Senior Citizen Savings Scheme",
+"benefit":"वरिष्ठ नागरिकों के लिए निवेश योजना",
+"conditions":{"age_min":60},
+"state":"All",
+"apply_link":"https://indiapost.gov.in/"
+},
+{
+"name":"National Rural Livelihood Mission",
+"benefit":"ग्रामीण महिलाओं को स्वरोजगार सहायता",
+"conditions":{"area":"rural","gender":"female"},
+"state":"All",
+"apply_link":"https://aajeevika.gov.in/"
+},
+{
+"name":"PM Shram Yogi Maandhan",
+"benefit":"असंगठित श्रमिकों को पेंशन",
+"conditions":{"income_max":250000},
+"state":"All",
+"apply_link":"https://maandhan.in/"
+}
+  ,
+{
+"name":"Himachal Mukhyamantri Kanyadan Yojana",
+"benefit":"गरीब परिवार की बेटियों की शादी हेतु सहायता",
+"conditions":{"gender":"female","income_max":250000},
+"state":"Himachal Pradesh",
+"apply_link":"https://himachal.nic.in/"
+},
+{
+"name":"Himachal Mukhyamantri Swasthya Yojana",
+"benefit":"गरीब परिवारों को स्वास्थ्य सहायता",
+"conditions":{"income_max":300000},
+"state":"Himachal Pradesh",
+"apply_link":"https://himachal.nic.in/"
+},
+{
+"name":"Himachal Farmer Irrigation Scheme",
+"benefit":"किसानों को सिंचाई सहायता",
+"conditions":{"is_farmer":true},
+"state":"Himachal Pradesh",
+"apply_link":"https://himachal.nic.in/"
+},
+{
+"name":"Himachal SC/ST Scholarship",
+"benefit":"SC/ST छात्रों को छात्रवृत्ति",
+"conditions":{"caste":"sc","is_student":true},
+"state":"Himachal Pradesh",
+"apply_link":"https://himachal.nic.in/"
+},
+{
+"name":"Himachal Urban Housing Scheme",
+"benefit":"शहरी गरीबों को आवास सहायता",
+"conditions":{"area":"urban","income_max":300000},
+"state":"Himachal Pradesh",
+"apply_link":"https://himachal.nic.in/"
+},
+{
+"name":"Himachal Divyang Sahayata",
+"benefit":"विकलांग नागरिकों को मासिक सहायता",
+"conditions":{"disability":true},
+"state":"Himachal Pradesh",
+"apply_link":"https://himachal.nic.in/"
+},
+{
+"name":"Himachal Widow Financial Assistance",
+"benefit":"विधवा महिलाओं को आर्थिक सहायता",
+"conditions":{"marital_status":"widow","gender":"female"},
+"state":"Himachal Pradesh",
+"apply_link":"https://himachal.nic.in/"
+},
+{
+"name":"Himachal Youth Self Employment Scheme",
+"benefit":"युवाओं को व्यवसाय शुरू करने के लिए सहायता",
+"conditions":{"age_min":18,"age_max":40},
+"state":"Himachal Pradesh",
+"apply_link":"https://himachal.nic.in/"
+},
+{
+"name":"Himachal Rural Skill Development",
+"benefit":"ग्रामीण युवाओं को कौशल प्रशिक्षण",
+"conditions":{"area":"rural","age_min":18},
+"state":"Himachal Pradesh",
+"apply_link":"https://himachal.nic.in/"
+},
+{
+"name":"Himachal Girl Child Education Support",
+"benefit":"बालिकाओं को शिक्षा सहायता",
+"conditions":{"gender":"female","is_student":true},
+"state":"Himachal Pradesh",
+"apply_link":"https://himachal.nic.in/"
+}
+  ,
+{
+"name":"Punjab Shagun Scheme",
+"benefit":"गरीब परिवार की बेटियों की शादी हेतु सहायता",
+"conditions":{"gender":"female","income_max":250000},
+"state":"Punjab",
+"apply_link":"https://punjab.gov.in/"
+}
+  ,
+{
+"name":"Haryana Old Age Samman Allowance",
+"benefit":"वरिष्ठ नागरिकों को मासिक पेंशन",
+"conditions":{"age_min":60},
+"state":"Haryana",
+"apply_link":"https://haryana.gov.in/"
+}
+  ,
+{
+"name":"Delhi Free Electricity Scheme",
+"benefit":"निर्धारित सीमा तक मुफ्त बिजली",
+"conditions":{"area":"urban"},
+"state":"Delhi",
+"apply_link":"https://delhi.gov.in/"
+}
+  ,
+{
+"name":"UP Kanya Sumangala Yojana",
+"benefit":"बालिकाओं की शिक्षा हेतु आर्थिक सहायता",
+"conditions":{"gender":"female"},
+"state":"Uttar Pradesh",
+"apply_link":"https://mksy.up.gov.in/"
+},
+{
+"name":"UP Old Age Pension",
+"benefit":"वरिष्ठ नागरिकों को मासिक पेंशन",
+"conditions":{"age_min":60},
+"state":"Uttar Pradesh",
+"apply_link":"https://sspy-up.gov.in/"
+}
+  ,
+{
+"name":"Punjab Ashirwad Scheme",
+"benefit":"SC परिवारों की बेटियों की शादी हेतु सहायता",
+"conditions":{"caste":"sc","gender":"female"},
+"state":"Punjab",
+"apply_link":"https://punjab.gov.in/"
+},
+{
+"name":"Punjab Atta-Dal Scheme",
+"benefit":"गरीब परिवारों को राशन सहायता",
+"conditions":{"income_max":200000},
+"state":"Punjab",
+"apply_link":"https://punjab.gov.in/"
+},
+{
+"name":"Rajasthan Palanhar Yojana",
+"benefit":"अनाथ बच्चों के पालन-पोषण हेतु सहायता",
+"conditions":{"income_max":250000},
+"state":"Rajasthan",
+"apply_link":"https://rajasthan.gov.in/"
+},
+{
+"name":"Rajasthan Devnarayan Scholarship",
+"benefit":"OBC छात्रों को छात्रवृत्ति",
+"conditions":{"caste":"obc","is_student":true},
+"state":"Rajasthan",
+"apply_link":"https://rajasthan.gov.in/"
+},
+{
+"name":"MP Ladli Laxmi Yojana",
+"benefit":"बालिकाओं को शिक्षा सहायता",
+"conditions":{"gender":"female"},
+"state":"Madhya Pradesh",
+"apply_link":"https://mp.gov.in/"
+},
+{
+"name":"MP Mukhyamantri Yuva Swarojgar",
+"benefit":"युवाओं को स्वरोजगार हेतु ऋण",
+"conditions":{"age_min":18,"age_max":40},
+"state":"Madhya Pradesh",
+"apply_link":"https://mp.gov.in/"
+},
+{
+"name":"Bihar Mukhyamantri Kanya Utthan Yojana",
+"benefit":"बालिकाओं की उच्च शिक्षा हेतु सहायता",
+"conditions":{"gender":"female","is_student":true},
+"state":"Bihar",
+"apply_link":"https://bihar.gov.in/"
+},
+{
+"name":"Bihar Student Credit Card Scheme",
+"benefit":"छात्रों को शिक्षा ऋण",
+"conditions":{"is_student":true,"age_min":18},
+"state":"Bihar",
+"apply_link":"https://bihar.gov.in/"
+}
+  ,
+{
+"name":"Gujarat Digital Seva Yojana",
+"benefit":"डिजिटल सेवाओं हेतु सहायता",
+"conditions":{"age_min":18},
+"state":"Gujarat",
+"apply_link":"https://gujaratindia.gov.in/"
+},
+{
+"name":"Gujarat Widow Assistance Scheme",
+"benefit":"विधवा महिलाओं को मासिक सहायता",
+"conditions":{"marital_status":"widow","gender":"female"},
+"state":"Gujarat",
+"apply_link":"https://gujaratindia.gov.in/"
+},
+{
+"name":"Maharashtra Shetkari Samman Yojana",
+"benefit":"किसानों को आर्थिक सहायता",
+"conditions":{"is_farmer":true},
+"state":"Maharashtra",
+"apply_link":"https://maharashtra.gov.in/"
+},
+{
+"name":"Maharashtra Shravanbal Pension",
+"benefit":"वरिष्ठ नागरिकों को पेंशन",
+"conditions":{"age_min":60},
+"state":"Maharashtra",
+"apply_link":"https://maharashtra.gov.in/"
+},
+{
+"name":"Karnataka Vidyasiri Scholarship",
+"benefit":"छात्रों को छात्रवृत्ति",
+"conditions":{"is_student":true,"income_max":250000},
+"state":"Karnataka",
+"apply_link":"https://karnataka.gov.in/"
+},
+{
+"name":"Karnataka Sandhya Suraksha Yojana",
+"benefit":"वरिष्ठ नागरिकों को मासिक पेंशन",
+"conditions":{"age_min":60},
+"state":"Karnataka",
+"apply_link":"https://karnataka.gov.in/"
+},
+{
+"name":"Tamil Nadu Marriage Assistance Scheme",
+"benefit":"गरीब परिवार की बेटियों की शादी सहायता",
+"conditions":{"gender":"female","income_max":250000},
+"state":"Tamil Nadu",
+"apply_link":"https://tn.gov.in/"
+},
+{
+"name":"Tamil Nadu Free Laptop Scheme",
+"benefit":"छात्रों को मुफ्त लैपटॉप",
+"conditions":{"is_student":true},
+"state":"Tamil Nadu",
+"apply_link":"https://tn.gov.in/"
+},
+{
+"name":"West Bengal Kanyashree Prakalpa",
+"benefit":"बालिकाओं को शिक्षा सहायता",
+"conditions":{"gender":"female","is_student":true},
+"state":"West Bengal",
+"apply_link":"https://wb.gov.in/"
+},
+{
+"name":"West Bengal Old Age Pension",
+"benefit":"वरिष्ठ नागरिकों को पेंशन",
+"conditions":{"age_min":60},
+"state":"West Bengal",
+"apply_link":"https://wb.gov.in/"
+}
+  ]
